@@ -1,0 +1,70 @@
+.parent {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; */
+}
+.parent > div {
+  /* width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px; */
+}
+.div1 {
+  background-color: red;
+  height: 60px;
+}
+.div2 {
+  background-color: green;
+  height: 20px;
+}
+.div3 {
+  background-color: blue;
+  height: 150px;
+  width: 20%;
+  float: left;
+}
+.div4 {
+  height: 150px;
+  background-color: lightblue;
+  width: 50%;
+  float: left;
+}
+.div56 {
+  width: 30%;
+  float: left;
+}
+.div5 {
+  background-color: gray;
+  height: 75px;
+}
+.div6 {
+  background-color: yellow;
+  height: 75px;
+}
+.div78 {
+  width: 20%;
+  float: left;
+}
+.div7 {
+  background-color: orange;
+  height: 100px;
+}
+.div8 {
+  background-color: purple;
+  height: 100px;
+}
+.div9 {
+  background-color: pink;
+  height: 200px;
+  width: 80%;
+  float: left;
+}
+.div10 {
+  background-color: cyan;
+  height: 50px;
+}

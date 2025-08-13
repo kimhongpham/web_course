@@ -1,0 +1,40 @@
+.parent {
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; */
+}
+.parent > div {
+  /* width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px; */
+}
+.div1 {
+  background-color: lightcoral;
+  height: 100px;
+}
+.div2 {
+  background-color: lightblue;
+  height: 30px;
+}
+.div3 {
+  background-color: lightgreen;
+  height: 300px;
+  width: 20%;
+  float: left;
+}
+.div4 {
+  background-color: lightgoldenrodyellow;
+  height: 300px;
+  width: 80%;
+  float: left;
+}
+.div5 {
+  background-color: lightpink;
+  height: 100px;
+}
